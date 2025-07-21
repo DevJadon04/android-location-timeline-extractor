@@ -4,3 +4,5 @@ echo ".DS_Store" >> .gitignore
 echo "results/" >> .gitignore
 echo "my_results/" >> .gitignore
 echo "*.zip" >> .gitignore
+echo ".vscode/" >> .gitignore
+echo "*.log" >> .gitignore
