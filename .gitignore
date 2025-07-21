@@ -1,0 +1,7 @@
+# Create .gitignore file
+echo __pycache__/ > .gitignore
+echo *.pyc >> .gitignore
+echo .DS_Store >> .gitignore
+echo results/ >> .gitignore
+echo my_results/ >> .gitignore
+echo sample_data/locations.db >> .gitignore
